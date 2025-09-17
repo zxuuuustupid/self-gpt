@@ -1,3 +1,17 @@
 /.ipynb_checkpoints
 /__pycache__
 /.idea
+.DS_Store
+.vscode
+*.pyc
+*.pyo
+*.pyd
+*.swp
+*.swo
+*.bak
+*.tmp
+*.log
+*.sqlite3
+*.env
+.env.*
+venv/
